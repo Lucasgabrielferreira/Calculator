@@ -6,9 +6,9 @@ static void Menu()
 {
     Console.WriteLine("O que deseja fazer?");
     Console.WriteLine("1 - Soma");
-    Console.WriteLine("1 - Subtração");
-    Console.WriteLine("1 - Divisão");
-    Console.WriteLine("1 - Multiplicação");
+    Console.WriteLine("2 - Subtração");
+    Console.WriteLine("3 - Divisão");
+    Console.WriteLine("4 - Multiplicação");
     Console.WriteLine("5 - Sair");
 
     Console.WriteLine("-----------");
